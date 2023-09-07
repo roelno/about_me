@@ -2,4 +2,9 @@
     <string name="app_name">About Me</string>
     <string name="name">Yue Zhang</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hi, my name is Yue(Zelda) Zhang.\n\n
+        I am a MSCS Student at Northeastern University Vancouver. And I am Actively looking for internship/co-op opportunity.\n\n
+        I am interested in Mobile Development.\n\n
+    </string>
 </resources>
